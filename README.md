@@ -1,5 +1,5 @@
 # README.md
-# Automatic Configuration Management Across Environments with Ansible
+# Automatic Configuration Management Across Environments with ansible.
 
 ## Overview
 This project automates configuration management across multiple environments using Ansible. It ensures consistency, scalability, and efficiency in infrastructure deployment.
